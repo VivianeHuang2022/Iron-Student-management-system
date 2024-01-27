@@ -1,6 +1,10 @@
-Introduction
-Welcome to the Student Management System (CRM), a web application built using React, JavaScript, and MongoDB to manage student information in a non-structured database. This system facilitates the creation of student groups, addition of new student information, and allows teachers and students to log in to view and edit their personal information. Additionally, users can access and manage class information through the application.
+##Introduction
+<br>
 
+##Welcome to the Student Management System (CRM), a web application built using React, JavaScript, and MongoDB to manage student information in a non-structured database. This system facilitates the creation of student groups, addition of new student information, and allows teachers and students to log in to view and edit their personal information. Additionally, users can access and manage class information through the application.
+<br>
+
+##
 Technologies Used
 Frontend: React
 Backend: JavaScript (Node.js)
@@ -14,31 +18,42 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 const { isAuthenticated } = require("../middleware/route-guard.middleware");
 Features
+<br>
+
+##
 Student Group Management:
-
 Create and manage student groups efficiently.
+<br>
+
+##
 Student Information Management:
-
 Add and update student information in the non-structured database.
-User Authentication:
+<br>
 
+##
+User Authentication:
 Differentiate between teachers and students, allowing them to log in securely.
 Utilizes JSON Web Tokens (JWT) for secure user authentication.
+<br>
+
+##
 Personal Information Viewing and Editing:
-
 Users (teachers and students) can log in to view and edit their personal information.
-Class Information Management:
+<br>
 
+##
+Class Information Management:
 View and manage class information, providing a comprehensive overview.
 How to Use
 Clone the Repository:
-
 Clone the Student Management System repository to your local machine.
-
 git clone https://github.com/your-username/student-management-system.git
-Install Dependencies:
+<br>
 
+##
+Install Dependencies:
 Navigate to the project folder and install the necessary dependencies for both the front end and back end.
+<br>
 
 cd student-management-system
 cd client && npm install
