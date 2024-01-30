@@ -10,11 +10,11 @@ Frontend: React
 Backend: JavaScript (Node.js)
 <br>
 
-# In the client folder
+# In the client folder(Frontend)
 <br>
 Start the front end/client side in your terminal: npm start
 
-# In the server folder
+# In the server folder(Backend)
 
 npm start
 Access the Application:
@@ -23,7 +23,6 @@ Open your browser and navigate to http://localhost:3000 to access the Student Ma
 Contribution
 Contributions to the development of the Student Management System are welcome. Feel free to submit issues or pull requests to enhance the functionality and user experience of the application.
 
-Backend:
 
 # API Documentation
 
