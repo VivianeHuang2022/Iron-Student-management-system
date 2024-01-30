@@ -4,6 +4,14 @@ Welcome to the Student Management System (CRM), a web application built using Re
 <br>
 Start the front end and back end servers.
 
+<br>
+Technologies Used
+<br>
+Frontend: React
+<br>
+Backend: JavaScript (Node.js)
+<br>
+
 # In the client folder
 
 npm start
