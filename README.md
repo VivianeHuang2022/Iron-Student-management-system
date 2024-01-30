@@ -12,9 +12,7 @@ Backend: JavaScript (Node.js)
 
 # In the client folder
 <br>
-Start the front end/client side.
-<br>
-npm start
+Start the front end/client side in your terminal: npm start
 
 # In the server folder
 
