@@ -5,7 +5,6 @@ Welcome to the Student Management System (CRM), a web application built using Re
 # Tech in this Project
 <br>
 
-<br>
 Technologies Used
 <br>
 Frontend: React
