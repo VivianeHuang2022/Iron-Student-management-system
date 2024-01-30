@@ -1,6 +1,8 @@
 # Introduction
 <br>
 Welcome to the Student Management System (CRM), a web application built using React, JavaScript, and MongoDB to manage student information in a non-structured database. This system facilitates the creation of student groups, addition of new student information, and allows teachers and students to log in to view and edit their personal information. Additionally, users can access and manage class information through the application.
+
+<br>
 # Tech in this Project
 
 <br>
